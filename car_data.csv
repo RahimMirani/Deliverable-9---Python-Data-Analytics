@@ -1,0 +1,206 @@
+Car_Name,Doors,Cylinder_no,Engine_size,HP,Citympg,Highwaympg,Price
+alfa-romero giulia,2,4,130,111,21,27,13495
+alfa-romero stelvio,2,4,130,111,21,27,16500
+alfa-romero Quadrifoglio,2,6,152,154,19,26,16500
+audi 100 ls,4,4,109,102,24,30,13950
+audi 100ls,4,5,136,115,18,22,17450
+audi fox,2,5,136,110,19,25,15250
+audi 100ls,4,5,136,110,19,25,17710
+audi 5000,4,5,136,110,19,25,18920
+audi 4000,4,5,131,140,17,20,23875
+audi 5000s (diesel),2,5,131,160,16,22,17859.167
+bmw 320i,2,4,108,101,23,29,16430
+bmw 320i,4,4,108,101,23,29,16925
+bmw x1,2,6,164,121,21,28,20970
+bmw x3,4,6,164,121,21,28,21105
+bmw z4,4,6,164,121,20,25,24565
+bmw x4,4,6,209,182,16,22,30760
+bmw x5,2,6,209,182,16,22,41315
+bmw x3,4,6,209,182,15,20,36880
+chevrolet impala,2,3,61,48,47,53,5151
+chevrolet monte carlo,2,4,90,70,38,43,6295
+chevrolet vega 2300,4,4,90,70,38,43,6575
+dodge rampage,2,4,90,68,37,41,5572
+dodge challenger se,2,4,90,68,31,38,6377
+dodge d200,2,4,98,102,24,30,7957
+dodge monaco (sw),4,4,90,68,31,38,6229
+dodge colt hardtop,4,4,90,68,31,38,6692
+dodge colt (sw),4,4,90,68,31,38,7609
+dodge coronet custom,2,4,98,102,24,30,8558
+dodge dart custom,4,4,122,88,24,30,8921
+dodge coronet custom (sw),2,4,156,145,19,24,12964
+honda civic,2,4,92,58,49,54,6479
+honda civic cvcc,2,4,92,76,31,38,6855
+honda civic,2,4,79,60,38,42,5399
+honda accord cvcc,2,4,92,76,30,34,6529
+honda civic cvcc,2,4,92,76,30,34,7129
+honda accord lx,4,4,92,76,30,34,7295
+honda civic 1500 gl,4,4,92,76,30,34,7295
+honda accord,2,4,110,86,27,33,7895
+honda civic 1300,2,4,110,86,27,33,9095
+honda prelude,4,4,110,86,27,33,8845
+honda accord,4,4,110,86,27,33,10295
+honda civic,4,4,110,101,24,28,12945
+honda civic (auto),2,4,110,100,25,31,10345
+isuzu MU-X,4,4,111,78,24,29,6785
+isuzu D-Max ,2,4,90,70,38,43,8916.5
+isuzu D-Max V-Cross,4,4,90,70,38,43,8916.5
+isuzu D-Max ,2,4,119,90,24,29,11048
+jaguar xj,4,6,258,176,15,19,32250
+jaguar xf,4,6,258,176,15,19,35550
+jaguar xk,2,12,326,262,13,17,36000
+maxda rx3,2,4,91,68,30,31,5195
+maxda glc deluxe,2,4,91,68,31,38,6095
+mazda rx2 coupe,2,4,91,68,31,38,6795
+mazda rx-4,4,4,91,68,31,38,6695
+mazda glc deluxe,4,4,91,68,31,38,7395
+mazda 626,2,2,70,101,17,23,10945
+mazda glc,2,2,70,101,17,23,11845
+mazda rx-7 gs,2,2,70,101,17,23,13645
+mazda glc 4,2,2,80,135,16,23,15645
+mazda 626,2,4,122,84,26,32,8845
+mazda glc custom l,4,4,122,84,26,32,8495
+mazda glc custom,2,4,122,84,26,32,10595
+mazda rx-4,4,4,122,84,26,32,10245
+mazda glc deluxe,4,4,122,64,36,42,10795
+mazda 626,4,4,122,84,26,32,11245
+mazda glc,4,4,140,120,19,27,18280
+mazda rx-7 gs,4,4,134,72,31,39,18344
+buick electra 225 custom,4,5,183,123,22,25,25552
+buick century luxus (sw),4,5,183,123,22,25,28248
+buick century,2,5,183,123,22,25,28176
+buick skyhawk,4,5,183,123,22,25,31600
+buick opel isuzu deluxe,4,8,234,155,16,18,34184
+buick skylark,2,8,234,155,16,18,35056
+buick century special,4,8,308,184,14,16,40960
+buick regal sport coupe (turbo),2,8,304,184,14,16,45400
+mercury cougar,2,4,140,175,19,24,16503
+mitsubishi mirage,2,4,92,68,37,41,5389
+mitsubishi lancer,2,4,92,68,31,38,6189
+mitsubishi outlander,2,4,92,68,31,38,6669
+mitsubishi g4,2,4,98,102,24,30,7689
+mitsubishi mirage g4,2,4,110,116,23,30,9959
+mitsubishi g4,2,4,122,88,25,32,8499
+mitsubishi outlander,2,4,156,145,19,24,12629
+mitsubishi g4,2,4,156,145,19,24,14869
+mitsubishi mirage g4,2,4,156,145,19,24,14489
+mitsubishi montero,4,4,122,88,25,32,6989
+mitsubishi pajero,4,4,122,88,25,32,8189
+mitsubishi outlander,4,4,110,116,23,30,9279
+mitsubishi mirage g4,4,4,110,116,23,30,9279
+Nissan versa,2,4,97,69,31,37,5499
+nissan gt-r,2,4,103,55,45,50,7099
+nissan rogue,2,4,97,69,31,37,6649
+nissan latio,4,4,97,69,31,37,6849
+nissan titan,4,4,97,69,31,37,7349
+nissan leaf,2,4,97,69,31,37,7299
+nissan juke,2,4,97,69,31,37,7799
+nissan latio,4,4,97,69,31,37,7499
+nissan note,4,4,97,69,31,37,7999
+nissan clipper,2,4,97,69,31,37,8249
+nissan rogue,4,4,120,97,27,34,8949
+nissan nv200,4,4,120,97,27,34,9549
+nissan dayz,4,6,181,152,17,22,13499
+nissan fuga,4,6,181,152,17,22,14399
+nissan otti,4,6,181,152,19,25,13499
+nissan teana,2,6,181,160,19,25,17199
+nissan kicks,2,6,181,200,17,23,19699
+nissan clipper,2,6,181,160,19,25,18399
+peugeot 504,4,4,120,97,19,24,11900
+peugeot 304,4,4,152,95,28,33,13200
+peugeot 504 (sw),4,4,120,97,19,24,12440
+peugeot 504,4,4,152,95,25,25,13860
+peugeot 504,4,4,120,95,19,24,15580
+peugeot 604sl,4,4,152,95,28,33,16900
+peugeot 504,4,4,120,95,19,24,16695
+peugeot 505s turbo diesel,4,4,152,95,25,25,17075
+peugeot 504,4,4,120,97,19,24,16630
+peugeot 504,4,4,152,95,28,33,17950
+peugeot 604sl,4,4,134,142,18,24,18150
+plymouth fury iii,2,4,90,68,37,41,5572
+plymouth cricket,2,4,98,102,24,30,7957
+plymouth fury iii,4,4,90,68,31,38,6229
+plymouth satellite custom (sw),4,4,90,68,31,38,6692
+plymouth fury gran sedan,4,4,98,68,31,38,7609
+plymouth valiant,4,4,122,88,24,30,8921
+plymouth duster,2,4,156,145,19,24,12764
+porsche macan,2,4,151,143,19,27,22018
+porcshce panamera,2,6,194,207,17,25,32528
+porsche cayenne,2,6,194,207,17,25,34028
+porsche boxter,2,6,194,207,17,25,37028
+porsche cayenne,2,8,203,288,17,28,31400.5
+renault 12tl,4,4,132,90,23,31,9295
+renault 5 gtl,2,4,132,90,23,31,9895
+saab 99e,2,4,121,110,21,28,11850
+saab 99le,4,4,121,110,21,28,12170
+saab 99le,2,4,121,110,21,28,15040
+saab 99gle,4,4,121,110,21,28,15510
+saab 99gle,2,4,121,160,19,26,18150
+saab 99e,4,4,121,160,19,26,18620
+subaru,2,4,97,69,31,36,5118
+subaru dl,2,4,108,73,26,31,7053
+subaru dl,2,4,108,73,26,31,7603
+subaru,4,4,108,82,32,37,7126
+subaru brz,4,4,108,82,28,33,7775
+subaru baja,4,4,108,94,26,32,9960
+subaru r1,4,4,108,82,24,25,9233
+subaru r2,4,4,108,111,24,29,11259
+subaru trezia,4,4,108,82,28,32,7463
+subaru tribeca,4,4,108,94,25,31,10198
+subaru dl,4,4,108,82,23,29,8013
+subaru dl,4,4,108,111,23,23,11694
+toyota corona mark ii,2,4,92,62,35,39,5348
+toyota corona,2,4,92,62,31,38,6338
+toyota corolla 1200,4,4,92,62,31,38,6488
+toyota corona hardtop,4,4,92,62,31,37,6918
+toyota corolla 1600 (sw),4,4,92,62,27,32,7898
+toyota carina,4,4,92,62,27,32,8778
+toyota mark ii,4,4,98,70,30,37,6938
+toyota corolla 1200,4,4,98,70,30,37,7198
+toyota corona,4,4,110,56,34,36,7898
+toyota corolla,4,4,110,56,38,47,7788
+toyota corona,4,4,98,70,38,47,7738
+toyota corolla,4,4,98,70,28,34,8358
+toyota mark ii,4,4,98,70,28,34,9258
+toyota corolla liftback,2,4,98,70,29,34,8058
+toyota corona,2,4,98,70,29,34,8238
+toyota celica gt liftback,2,4,98,112,26,29,9298
+toyota corolla tercel,2,4,98,112,26,29,9538
+toyota corona liftback,2,4,146,116,24,30,8449
+toyota corolla,2,4,146,116,24,30,9639
+toyota starlet,2,4,146,116,24,30,9989
+toyota tercel,2,4,146,116,24,30,11199
+toyota corolla,2,4,146,116,24,30,11549
+toyota cressida,2,4,146,116,24,30,17669
+toyota corolla,4,4,122,92,29,34,8948
+toyota celica gt,4,4,110,73,30,33,10698
+toyota corona,4,4,122,92,27,32,9988
+toyota corolla,4,4,122,92,27,32,10898
+toyota mark ii,4,4,122,92,27,32,11248
+toyota corolla liftback,2,6,171,161,20,24,16558
+toyota corona,2,6,171,161,19,24,15998
+toyota starlet,4,6,171,156,20,24,15690
+toyouta tercel,4,6,161,156,19,24,15750
+vokswagen rabbit,2,4,97,52,37,46,7775
+volkswagen 1131 deluxe sedan,2,4,109,85,27,34,7975
+volkswagen model 111,4,4,97,52,37,46,7995
+volkswagen type 3,4,4,109,85,27,34,8195
+volkswagen 411 (sw),4,4,109,85,27,34,8495
+volkswagen super beetle,4,4,97,68,37,42,9495
+volkswagen dasher,4,4,109,100,26,32,9995
+vw dasher,2,4,109,90,24,29,11595
+vw rabbit,2,4,109,90,24,29,9980
+volkswagen rabbit,4,5,136,110,19,24,13295
+volkswagen rabbit custom,4,4,97,68,33,38,13845
+volkswagen dasher,4,4,109,88,25,31,12290
+volvo 145e (sw),4,4,141,114,23,28,12940
+volvo 144ea,4,4,141,114,23,28,13415
+volvo 244dl,4,4,141,114,24,28,15985
+volvo 245,4,4,141,114,24,28,16515
+volvo 264gl,4,4,130,162,17,22,18420
+volvo diesel,4,4,130,162,17,22,18950
+volvo 145e (sw),4,4,141,114,23,28,16845
+volvo 144ea,4,4,141,160,19,25,19045
+volvo 244dl,4,6,173,134,18,23,21485
+volvo 246,4,6,145,106,26,27,22470
+volvo 264gl,4,4,141,114,19,25,22625
